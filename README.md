@@ -54,9 +54,9 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2014-06-03 - Convert numbers to localized strings (PHP).
 * [dimakura/ka](https://github.com/dimakura/ka) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2013-11-09 - Common functionality for georgian projects (Ruby).
 * **Other localized packages**
-  * [moment/moment](https://github.com/moment/moment) ⭐ 47,915 | 🐛 190 | 🌐 JavaScript | 📅 2026-08-19 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+  * [moment/moment](https://github.com/moment/moment) ⭐ 47,914 | 🐛 190 | 🌐 JavaScript | 📅 2026-08-19 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
   * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,808 | 🐛 200 | 🌐 JavaScript | 📅 2026-08-18 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,804 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,601 | 🐛 4 | 🌐 PHP | 📅 2026-08-15 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
+  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,803 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,601 | 🐛 4 | 🌐 PHP | 📅 2026-08-15 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
   * [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton fork designed to work with Kartvelian languages (CSS).
   * [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
 
