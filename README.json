@@ -1,751 +1,770 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Lotuashvili/laravel-smsoffice",
-          "description": "Laravel package for smsoffice.ge service, supports laravel notifications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-12-24T19:14:05Z",
-            "owner": "Lotuashvili",
-            "repo": "laravel-smsoffice",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dimakura/magti",
-          "description": "Gem for sending SMS using Magticom gateway (Ruby).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-06-24T14:05:51Z",
-            "owner": "dimakura",
-            "repo": "magti",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wearede/magtisms-php",
-          "description": "Sending SMS via Magticom gateway (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2015-06-05T09:40:40Z",
-            "owner": "sandrodz",
-            "repo": "magtisms-php",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgabievi/laravel-gosms",
-          "description": "GoSMS.GE Integration for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2023-03-29T21:25:15Z",
-            "owner": "zgabievi",
-            "repo": "laravel-gosms",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgabievi/laravel-sender",
-          "description": "SENDER.GE Integration for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-08-10T09:45:28Z",
-            "owner": "zgabievi",
-            "repo": "laravel-sender",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "SMS / Texting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wearede/tbcpay-php",
-          "description": "Online payment SDK for not only for TBC-Pay (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-03-23T07:42:19Z",
-            "owner": "plugandpay",
-            "repo": "tbc-credit-card-payment-gateway-php-lib",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lotuashvili/laravel-tbcpay",
-          "description": "TBC Pay package for Laravel (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2022-09-19T09:37:29Z",
-            "owner": "Lotuashvili",
-            "repo": "laravel-tbcpay",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "akalongman/php-geopayment",
-          "description": "Online payments: BOG, Cartu, TBC Pay, Libery Pay (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-04-11T18:32:10Z",
-            "owner": "akalongman",
-            "repo": "php-geopayment",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "payzeio/laravel-payze",
-          "description": "Payze.io Payment Integration for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2023-07-24T11:03:39Z",
-            "owner": "payzeio",
-            "repo": "laravel-payze",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stichoza/nbg-currency",
-          "description": "Currency rate wrapper for NBG, National Bank of Georgia (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-11-03T04:14:57Z",
-            "owner": "Stichoza",
-            "repo": "nbg-currency",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgabievi/laravel-ipay",
-          "description": "iPay Integration for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-07-30T06:45:29Z",
-            "owner": "zgabievi",
-            "repo": "laravel-ipay",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgabievi/laravel-bogpayment",
-          "description": "BOG Payment Integration for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-05-26T10:38:04Z",
-            "owner": "zgabievi",
-            "repo": "laravel-bogpayment",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgabievi/laravel-tbcpayment",
-          "description": "TBC Payment integration for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-02-10T10:50:06Z",
-            "owner": "zgabievi",
-            "repo": "laravel-tbcpayment",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgabievi/laravel-bog-console",
-          "description": "Bank of Georgia Merchant Console OpenAPI Helper for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-01-28T09:46:06Z",
-            "owner": "zgabievi",
-            "repo": "laravel-bog-console",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ABGEO/nbg-currency-d8",
-          "description": "Drupal 8 Block Module for displaying NBG currencies (PHP; Drupal Module).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-04-29T21:40:58Z",
-            "owner": "ABGEO",
-            "repo": "nbg-currency-d8",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Omedia/iPay",
-          "description": "Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).",
-          "children": []
-        }
-      ],
-      "title": "Payments and Banks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Stichoza/font-larisome",
-          "description": "Iconic font for Georgian currency inspired by Font-Awesome (CSS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2025-07-18T21:00:50Z",
-            "owner": "Stichoza",
-            "repo": "font-larisome",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thecotne/georgian-webfonts",
-          "description": "Package for georgian fonts (CSS).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2017-08-18T18:10:12Z",
-            "owner": "thecotne",
-            "repo": "georgian-webfonts",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nodarai/geo-public-figure-fonts",
-          "description": "List of georgian public figures' handwritings transformed to fonts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-10-08T11:32:50Z",
-            "owner": "nodarai",
-            "repo": "geo-public-figure-fonts",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lotuashvili/BPGNateli",
-          "description": "Bower package for BPG Nateli font (CSS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2015-09-01T18:23:51Z",
-            "owner": "Lotuashvili",
-            "repo": "BPGNateli",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Assets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Landish/Laravel-Ka",
-          "description": "Laravel Georgian Language Pack.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-04-25T07:45:28Z",
-            "owner": "liorocks",
-            "repo": "Laravel-KA",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stichoza/money-num-to-string",
-          "description": "Convert a number/money to localized string (PHP, JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-01-04T19:22:31Z",
-            "owner": "Stichoza",
-            "repo": "georgian-number-to-words",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dimakura/ka.js",
-          "description": "Georgian language support for node and browser (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2014-09-09T16:16:35Z",
-            "owner": "dimakura",
-            "repo": "ka.js",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "akalongman/kautilities",
-          "description": "Convert Georgian letters to Latin and vice-versa (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2016-06-23T08:26:14Z",
-            "owner": "akalongman",
-            "repo": "kautilities",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "natchkebiailia/NumberToWord",
-          "description": "Convert numbers to localized strings (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-10-27T15:37:27Z",
-            "owner": "natchkebiailia",
-            "repo": "NumberToWord",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "d0ragon/number-to-words-ka",
-          "description": "Convert numbers to localized strings (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2014-06-03T09:31:06Z",
-            "owner": "d0ragon",
-            "repo": "number-to-words-ka",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dimakura/ka",
-          "description": "Common functionality for georgian projects (Ruby).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2013-11-09T09:08:06Z",
-            "owner": "dimakura",
-            "repo": "ka",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Other localized packages",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "moment/moment",
-              "description": "A lightweight date library (JavaScript). l10n by @irakli-janiashvili.",
+              "title": "Lotuashvili/laravel-smsoffice",
+              "description": "Laravel package for smsoffice.ge service, supports laravel notifications.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-18T05:08:43Z",
-                "owner": "moment",
-                "repo": "moment",
-                "stars": 47916
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "wenzhixin/bootstrap-table",
-              "description": "Bootstrap table with extra features. l10n by @Lotuashvili and @Stichoza.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-18T00:00:38Z",
-                "owner": "wenzhixin",
-                "repo": "bootstrap-table",
-                "stars": 11809
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "jenssegers/date",
-              "description": "PHP date library, which extends Carbon with multi-language support. Georgian l10n by @akalongman.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 158369678,
                 "language": "PHP",
-                "last_commit": "2023-12-04T07:46:11Z",
-                "owner": "jenssegers",
-                "repo": "date",
-                "stars": 1804
+                "last_commit": "2022-12-24T19:14:05Z",
+                "owner": "Lotuashvili",
+                "repo": "laravel-smsoffice",
+                "stars": 15
               }
             },
             {
               "node_type": "item",
-              "title": "Nikaoto/Skeleton",
-              "description": "Custom Skeleton fork designed to work with Kartvelian languages (CSS).",
-              "children": []
+              "title": "dimakura/magti",
+              "description": "Gem for sending SMS using Magticom gateway (Ruby).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4133863,
+                "language": "Ruby",
+                "last_commit": "2014-06-24T14:05:51Z",
+                "owner": "dimakura",
+                "repo": "magti",
+                "stars": 12
+              }
             },
             {
               "node_type": "item",
-              "title": "Landish/RedactorJS-GE",
-              "description": "Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).",
-              "children": []
+              "title": "wearede/magtisms-php",
+              "description": "Sending SMS via Magticom gateway (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36857398,
+                "language": "PHP",
+                "last_commit": "2015-06-05T09:40:40Z",
+                "owner": "sandrodz",
+                "repo": "magtisms-php",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgabievi/laravel-gosms",
+              "description": "GoSMS.GE Integration for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 306561202,
+                "language": "PHP",
+                "last_commit": "2023-03-29T21:25:15Z",
+                "owner": "zgabievi",
+                "repo": "laravel-gosms",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgabievi/laravel-sender",
+              "description": "SENDER.GE Integration for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284776495,
+                "language": "PHP",
+                "last_commit": "2021-08-10T09:45:28Z",
+                "owner": "zgabievi",
+                "repo": "laravel-sender",
+                "stars": 0
+              }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SMS / Texting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wearede/tbcpay-php",
+              "description": "Online payment SDK for not only for TBC-Pay (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34872819,
+                "language": "PHP",
+                "last_commit": "2022-03-23T07:42:19Z",
+                "owner": "plugandpay",
+                "repo": "tbc-credit-card-payment-gateway-php-lib",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lotuashvili/laravel-tbcpay",
+              "description": "TBC Pay package for Laravel (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 188817101,
+                "language": "PHP",
+                "last_commit": "2022-09-19T09:37:29Z",
+                "owner": "Lotuashvili",
+                "repo": "laravel-tbcpay",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "akalongman/php-geopayment",
+              "description": "Online payments: BOG, Cartu, TBC Pay, Libery Pay (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52480756,
+                "language": "PHP",
+                "last_commit": "2019-04-11T18:32:10Z",
+                "owner": "akalongman",
+                "repo": "php-geopayment",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "payzeio/laravel-payze",
+              "description": "Payze.io Payment Integration for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 335382885,
+                "language": "PHP",
+                "last_commit": "2023-07-24T11:03:39Z",
+                "owner": "payzeio",
+                "repo": "laravel-payze",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stichoza/nbg-currency",
+              "description": "Currency rate wrapper for NBG, National Bank of Georgia (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48929576,
+                "language": "PHP",
+                "last_commit": "2025-11-03T04:14:57Z",
+                "owner": "Stichoza",
+                "repo": "nbg-currency",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgabievi/laravel-ipay",
+              "description": "iPay Integration for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 313602375,
+                "language": "PHP",
+                "last_commit": "2021-07-30T06:45:29Z",
+                "owner": "zgabievi",
+                "repo": "laravel-ipay",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgabievi/laravel-bogpayment",
+              "description": "BOG Payment Integration for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285615893,
+                "language": "PHP",
+                "last_commit": "2021-05-26T10:38:04Z",
+                "owner": "zgabievi",
+                "repo": "laravel-bogpayment",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgabievi/laravel-tbcpayment",
+              "description": "TBC Payment integration for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285671362,
+                "language": "PHP",
+                "last_commit": "2022-02-10T10:50:06Z",
+                "owner": "zgabievi",
+                "repo": "laravel-tbcpayment",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgabievi/laravel-bog-console",
+              "description": "Bank of Georgia Merchant Console OpenAPI Helper for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332835504,
+                "language": "PHP",
+                "last_commit": "2021-01-28T09:46:06Z",
+                "owner": "zgabievi",
+                "repo": "laravel-bog-console",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABGEO/nbg-currency-d8",
+              "description": "Drupal 8 Block Module for displaying NBG currencies (PHP; Drupal Module).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202897180,
+                "language": "PHP",
+                "last_commit": "2021-04-29T21:40:58Z",
+                "owner": "ABGEO",
+                "repo": "nbg-currency-d8",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Payments and Banks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stichoza/font-larisome",
+              "description": "Iconic font for Georgian currency inspired by Font-Awesome (CSS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32043781,
+                "language": "SCSS",
+                "last_commit": "2025-07-18T21:00:50Z",
+                "owner": "Stichoza",
+                "repo": "font-larisome",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thecotne/georgian-webfonts",
+              "description": "Package for georgian fonts (CSS).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35280190,
+                "language": "CSS",
+                "last_commit": "2017-08-18T18:10:12Z",
+                "owner": "thecotne",
+                "repo": "georgian-webfonts",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodarai/geo-public-figure-fonts",
+              "description": "List of georgian public figures' handwritings transformed to fonts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132896801,
+                "language": "HTML",
+                "last_commit": "2019-10-08T11:32:50Z",
+                "owner": "nodarai",
+                "repo": "geo-public-figure-fonts",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lotuashvili/BPGNateli",
+              "description": "Bower package for BPG Nateli font (CSS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30452727,
+                "language": "CSS",
+                "last_commit": "2015-09-01T18:23:51Z",
+                "owner": "Lotuashvili",
+                "repo": "BPGNateli",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Assets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Landish/Laravel-Ka",
+              "description": "Laravel Georgian Language Pack.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 44276578,
+                "language": "PHP",
+                "last_commit": "2021-04-25T07:45:28Z",
+                "owner": "liorocks",
+                "repo": "Laravel-KA",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stichoza/money-num-to-string",
+              "description": "Convert a number/money to localized string (PHP, JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8286514,
+                "language": "PHP",
+                "last_commit": "2024-01-04T19:22:31Z",
+                "owner": "Stichoza",
+                "repo": "georgian-number-to-words",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dimakura/ka.js",
+              "description": "Georgian language support for node and browser (JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15193330,
+                "language": "JavaScript",
+                "last_commit": "2014-09-09T16:16:35Z",
+                "owner": "dimakura",
+                "repo": "ka.js",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "akalongman/kautilities",
+              "description": "Convert Georgian letters to Latin and vice-versa (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35210777,
+                "language": "PHP",
+                "last_commit": "2016-06-23T08:26:14Z",
+                "owner": "akalongman",
+                "repo": "kautilities",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "natchkebiailia/NumberToWord",
+              "description": "Convert numbers to localized strings (JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18767094,
+                "language": "JavaScript",
+                "last_commit": "2017-10-27T15:37:27Z",
+                "owner": "natchkebiailia",
+                "repo": "NumberToWord",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "d0ragon/number-to-words-ka",
+              "description": "Convert numbers to localized strings (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20436707,
+                "language": "PHP",
+                "last_commit": "2014-06-03T09:31:06Z",
+                "owner": "d0ragon",
+                "repo": "number-to-words-ka",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dimakura/ka",
+              "description": "Common functionality for georgian projects (Ruby).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9882103,
+                "language": "Ruby",
+                "last_commit": "2013-11-09T09:08:06Z",
+                "owner": "dimakura",
+                "repo": "ka",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Other localized packages",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "moment/moment",
+                  "description": "A lightweight date library (JavaScript). l10n by @irakli-janiashvili.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1424470,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-19T06:57:23Z",
+                    "owner": "moment",
+                    "repo": "moment",
+                    "stars": 47915
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wenzhixin/bootstrap-table",
+                  "description": "Bootstrap table with extra features. l10n by @Lotuashvili and @Stichoza.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12246785,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T00:00:38Z",
+                    "owner": "wenzhixin",
+                    "repo": "bootstrap-table",
+                    "stars": 11808
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jenssegers/date",
+                  "description": "PHP date library, which extends Carbon with multi-language support. Georgian l10n by @akalongman.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9738052,
+                    "language": "PHP",
+                    "last_commit": "2023-12-04T07:46:11Z",
+                    "owner": "jenssegers",
+                    "repo": "date",
+                    "stars": 1804
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Internationalization and Localization (i18n/l10n)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fzaninotto/Faker",
+              "description": "A library that generates fake data. Georgian l10n by @lperto and @akalongman (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2579314,
+                "language": "PHP",
+                "last_commit": "2024-03-20T13:44:54Z",
+                "owner": "fzaninotto",
+                "repo": "Faker",
+                "stars": 26655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "safareli/loremtyaosani",
+              "description": "Generate random lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10140591,
+                "language": "JavaScript",
+                "last_commit": "2013-05-18T11:52:54Z",
+                "owner": "safareli",
+                "repo": "loremtyaosani",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stichoza/text-generator",
+              "description": "Random gibberish generator (PHP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10076023,
+                "language": "PHP",
+                "last_commit": "2019-05-16T23:24:41Z",
+                "owner": "Stichoza",
+                "repo": "georgian-text-generator",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABGEO/tarieli.py",
+              "description": "Generate random paragraphs from Vepkhistkaosani. (Python).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191021318,
+                "language": "Python",
+                "last_commit": "2020-06-06T19:43:07Z",
+                "owner": "ABGEO",
+                "repo": "tarieli.py",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fakers, Lorem Ipsum Generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bumbeishvili/GeoWordsDatabase",
+              "description": "Database containing 300 000 + unique Georgian words (MySQL).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47454080,
+                "language": null,
+                "last_commit": "2017-12-09T13:12:06Z",
+                "owner": "bumbeishvili",
+                "repo": "GeoWordsDatabase",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bumbeishvili/awesome-georgian-datasets",
+              "description": "Useful datasets, specific to Georgia",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80402203,
+                "language": null,
+                "last_commit": "2022-03-13T09:27:21Z",
+                "owner": "bumbeishvili",
+                "repo": "awesome-georgian-datasets",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ioseb/geokbd",
+              "description": "Georgian keyboard library (JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135370,
+                "language": "JavaScript",
+                "last_commit": "2009-11-29T13:40:25Z",
+                "owner": "ioseb",
+                "repo": "geokbd",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bumbeishvili/georgian-tech-communities",
+              "description": "List of Georgian tech communities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123086480,
+                "language": null,
+                "last_commit": "2022-03-13T09:27:32Z",
+                "owner": "bumbeishvili",
+                "repo": "georgian-tech-communities",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "getsadzeg/awesome-georgian-talks",
+              "description": "List of awesome Georgian talks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81124413,
+                "language": null,
+                "last_commit": "2020-10-02T10:04:15Z",
+                "owner": "getsadzeg",
+                "repo": "awesome-georgian-talks",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "akalongman/geo-words",
+              "description": "Georgian words database (txt, dic, sql) + CLI web crawler on PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104601047,
+                "language": "PHP",
+                "last_commit": "2023-01-25T17:57:50Z",
+                "owner": "akalongman",
+                "repo": "geo-words",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lorey/top-regional-repositories/countries/georgia.md",
+              "description": "Popular repositories in Georgia",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94680893,
+                "language": null,
+                "last_commit": "2017-11-02T14:29:29Z",
+                "owner": "lorey",
+                "repo": "top-regional-repositories",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anbani/anbani.js",
+              "description": "Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124192124,
+                "language": "JavaScript",
+                "last_commit": "2026-07-10T18:21:19Z",
+                "owner": "Anbani",
+                "repo": "anbani.js",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "btomashvili/ge-services",
+              "description": "Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27639849,
+                "language": "Python",
+                "last_commit": "2015-07-16T12:40:32Z",
+                "owner": "bekatom",
+                "repo": "geo-services",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brunjick/vue-geokbd",
+              "description": "Vue.js georgian keyboard directive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67881997,
+                "language": "TypeScript",
+                "last_commit": "2017-02-18T22:11:42Z",
+                "owner": "xxzefgh",
+                "repo": "vue-geokbd",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dimakura/rs.ge",
+              "description": "Client for rs.ge web services (Ruby).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3470590,
+                "language": "Ruby",
+                "last_commit": "2014-02-17T06:15:06Z",
+                "owner": "dimakura",
+                "repo": "rs.ge",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodarai/lariskursibot",
+              "description": "Telegram Bot example to check daily GEL exchange rate using Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117748001,
+                "language": "Python",
+                "last_commit": "2026-04-28T15:28:20Z",
+                "owner": "nodarai",
+                "repo": "lariskursibot",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dimakura/oris.ge",
+              "description": "library for import/exporting data in oris.ge accounting software (Ruby).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7718706,
+                "language": "Ruby",
+                "last_commit": "2013-02-16T06:34:30Z",
+                "owner": "dimakura",
+                "repo": "oris.ge",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgabievi/laravel-onway",
+              "description": "ONWAY Integration for Laravel (PHP, Laravel).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276327022,
+                "language": "PHP",
+                "last_commit": "2022-05-09T16:49:55Z",
+                "owner": "zgabievi",
+                "repo": "laravel-onway",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Uncategorized"
         }
       ],
-      "title": "Internationalization and Localization (i18n/l10n)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fzaninotto/Faker",
-          "description": "A library that generates fake data. Georgian l10n by @lperto and @akalongman (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2024-03-20T13:44:54Z",
-            "owner": "fzaninotto",
-            "repo": "Faker",
-            "stars": 26655
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "safareli/loremtyaosani",
-          "description": "Generate random lines from Vepkhistkaosani - The Knight in the Panther's Skin (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2013-05-18T11:52:54Z",
-            "owner": "safareli",
-            "repo": "loremtyaosani",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stichoza/text-generator",
-          "description": "Random gibberish generator (PHP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-05-16T23:24:41Z",
-            "owner": "Stichoza",
-            "repo": "georgian-text-generator",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ABGEO/tarieli.py",
-          "description": "Generate random paragraphs from Vepkhistkaosani. (Python).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-06T19:43:07Z",
-            "owner": "ABGEO",
-            "repo": "tarieli.py",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gugakatsi/LoremKnight",
-          "description": "Ruby gem , generating lorem from georgian poem \"The Knight in the Panther's Skin\".",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Marak/faker.js",
-          "description": "Generate fake data in Node.js and the browser. Georgian l10n by @Stichoza (JavaScript).",
-          "children": []
-        }
-      ],
-      "title": "Fakers, Lorem Ipsum Generators"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bumbeishvili/GeoWordsDatabase",
-          "description": "Database containing 300 000 + unique Georgian words (MySQL).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-12-09T13:12:06Z",
-            "owner": "bumbeishvili",
-            "repo": "GeoWordsDatabase",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bumbeishvili/awesome-georgian-datasets",
-          "description": "Useful datasets, specific to Georgia",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-03-13T09:27:21Z",
-            "owner": "bumbeishvili",
-            "repo": "awesome-georgian-datasets",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ioseb/geokbd",
-          "description": "Georgian keyboard library (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2009-11-29T13:40:25Z",
-            "owner": "ioseb",
-            "repo": "geokbd",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bumbeishvili/georgian-tech-communities",
-          "description": "List of Georgian tech communities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-03-13T09:27:32Z",
-            "owner": "bumbeishvili",
-            "repo": "georgian-tech-communities",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "getsadzeg/awesome-georgian-talks",
-          "description": "List of awesome Georgian talks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-10-02T10:04:15Z",
-            "owner": "getsadzeg",
-            "repo": "awesome-georgian-talks",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "akalongman/geo-words",
-          "description": "Georgian words database (txt, dic, sql) + CLI web crawler on PHP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-01-25T17:57:50Z",
-            "owner": "akalongman",
-            "repo": "geo-words",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lorey/top-regional-repositories/countries/georgia.md",
-          "description": "Popular repositories in Georgia",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2017-11-02T14:29:29Z",
-            "owner": "lorey",
-            "repo": "top-regional-repositories",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anbani/anbani.js",
-          "description": "Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-10T18:21:19Z",
-            "owner": "Anbani",
-            "repo": "anbani.js",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "btomashvili/ge-services",
-          "description": "Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-07-16T12:40:32Z",
-            "owner": "bekatom",
-            "repo": "geo-services",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brunjick/vue-geokbd",
-          "description": "Vue.js georgian keyboard directive",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-02-18T22:11:42Z",
-            "owner": "xxzefgh",
-            "repo": "vue-geokbd",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dimakura/rs.ge",
-          "description": "Client for rs.ge web services (Ruby).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-02-17T06:15:06Z",
-            "owner": "dimakura",
-            "repo": "rs.ge",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nodarai/lariskursibot",
-          "description": "Telegram Bot example to check daily GEL exchange rate using Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-28T15:28:20Z",
-            "owner": "nodarai",
-            "repo": "lariskursibot",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dimakura/oris.ge",
-          "description": "library for import/exporting data in oris.ge accounting software (Ruby).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2013-02-16T06:34:30Z",
-            "owner": "dimakura",
-            "repo": "oris.ge",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgabievi/laravel-onway",
-          "description": "ONWAY Integration for Laravel (PHP, Laravel).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-05-09T16:49:55Z",
-            "owner": "zgabievi",
-            "repo": "laravel-onway",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "getsadzeg/gegram-class",
-          "description": "Library for replacing barbarisms in Georgian sentences (Java).",
-          "children": []
-        }
-      ],
-      "title": "Uncategorized"
-    },
-    {
-      "description": "<img width=96 src=https://cloud.githubusercontent.com/assets/1139050/7786185/86edebea-01cc-11e5-9658-4060b6c45248.jpg>\nTo the extent possible under law, Stichoza (Levan Velijanashvili) has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Categories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:21:33.252Z",
+    "last_updated": "2026-08-19T12:30:28.239Z",
     "original_repository": "Stichoza/awesome-georgia",
+    "original_repository_id": 36075460,
     "original_repository_sha": "5de038eb21cdc775d6e200560ac9eef1a8f0cca8",
     "enhanced_repository": "enhansome/enhansome-georgia",
     "enhanced_repository_description": null,
