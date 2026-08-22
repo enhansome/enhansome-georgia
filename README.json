@@ -433,7 +433,7 @@
                     "last_commit": "2026-08-20T21:23:36Z",
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47915
+                    "stars": 47916
                   }
                 },
                 {
@@ -445,10 +445,10 @@
                     "archived": false,
                     "id": 12246785,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-18T00:00:38Z",
+                    "last_commit": "2026-08-22T00:00:37Z",
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
-                    "stars": 11808
+                    "stars": 11809
                   }
                 },
                 {
@@ -487,7 +487,7 @@
                 "last_commit": "2024-03-20T13:44:54Z",
                 "owner": "fzaninotto",
                 "repo": "Faker",
-                "stars": 26653
+                "stars": 26652
               }
             },
             {
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:23:34.321Z",
+    "last_updated": "2026-08-22T15:11:18.617Z",
     "original_repository": "Stichoza/awesome-georgia",
     "original_repository_id": 36075460,
     "original_repository_sha": "5de038eb21cdc775d6e200560ac9eef1a8f0cca8",
