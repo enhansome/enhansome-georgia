@@ -433,7 +433,7 @@
                     "last_commit": "2026-08-20T21:23:36Z",
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47916
+                    "stars": 47917
                   }
                 },
                 {
@@ -487,7 +487,7 @@
                 "last_commit": "2024-03-20T13:44:54Z",
                 "owner": "fzaninotto",
                 "repo": "Faker",
-                "stars": 26652
+                "stars": 26653
               }
             },
             {
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:11:18.617Z",
+    "last_updated": "2026-08-23T15:12:28.013Z",
     "original_repository": "Stichoza/awesome-georgia",
     "original_repository_id": 36075460,
     "original_repository_sha": "5de038eb21cdc775d6e200560ac9eef1a8f0cca8",
