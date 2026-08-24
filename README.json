@@ -430,10 +430,10 @@
                     "archived": false,
                     "id": 1424470,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T21:23:36Z",
+                    "last_commit": "2026-08-23T20:27:38Z",
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47917
+                    "stars": 47915
                   }
                 },
                 {
@@ -487,7 +487,7 @@
                 "last_commit": "2024-03-20T13:44:54Z",
                 "owner": "fzaninotto",
                 "repo": "Faker",
-                "stars": 26653
+                "stars": 26650
               }
             },
             {
@@ -539,6 +539,28 @@
           "description": null,
           "node_type": "group",
           "title": "Fakers, Lorem Ipsum Generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bumbeishvili/geojson-georgian-regions",
+              "description": "GeoJson data of Georgian regions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80284837,
+                "language": null,
+                "last_commit": "2021-05-08T09:08:39Z",
+                "owner": "bumbeishvili",
+                "repo": "geojson-georgian-regions",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Maps"
         },
         {
           "children": [
@@ -762,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:12:28.013Z",
+    "last_updated": "2026-08-24T14:40:06.236Z",
     "original_repository": "Stichoza/awesome-georgia",
     "original_repository_id": 36075460,
     "original_repository_sha": "5de038eb21cdc775d6e200560ac9eef1a8f0cca8",
