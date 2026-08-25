@@ -445,7 +445,7 @@
                     "archived": false,
                     "id": 12246785,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-22T00:00:37Z",
+                    "last_commit": "2026-08-25T00:01:14Z",
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
                     "stars": 11809
@@ -621,7 +621,7 @@
                 "last_commit": "2022-03-13T09:27:32Z",
                 "owner": "bumbeishvili",
                 "repo": "georgian-tech-communities",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -784,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:30:02.444Z",
+    "last_updated": "2026-08-25T06:35:21.829Z",
     "original_repository": "Stichoza/awesome-georgia",
     "original_repository_id": 36075460,
     "original_repository_sha": "5de038eb21cdc775d6e200560ac9eef1a8f0cca8",
