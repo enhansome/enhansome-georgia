@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📲 SmsOffice.ge service with notification channel for Laravel",
+                "homepage": null,
                 "id": 158369678,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2022-12-24T19:14:05Z",
+                "open_issues": 0,
                 "owner": "Lotuashvili",
                 "repo": "laravel-smsoffice",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gem for sending SMS using Magticom gateway",
+                "homepage": "http://my.telasi.ge",
                 "id": 4133863,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2014-06-24T14:05:51Z",
+                "open_issues": 0,
                 "owner": "dimakura",
                 "repo": "magti",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -44,12 +54,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SMS sending php-sdk for Magti",
+                "homepage": null,
                 "id": 36857398,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2015-06-05T09:40:40Z",
+                "open_issues": 1,
                 "owner": "sandrodz",
                 "repo": "magtisms-php",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "magti",
+                  "php-sdk",
+                  "sms-gateway"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -60,12 +79,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GoSMS.GE Integration for Laravel",
+                "homepage": null,
                 "id": 306561202,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-03-29T21:25:15Z",
+                "open_issues": 1,
                 "owner": "zgabievi",
                 "repo": "laravel-gosms",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -76,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SENDER.GE Integration for Laravel",
+                "homepage": null,
                 "id": 284776495,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-08-10T09:45:28Z",
+                "open_issues": 0,
                 "owner": "zgabievi",
                 "repo": "laravel-sender",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             }
@@ -99,12 +128,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP library for the TBC credit card payment gateway API.",
+                "homepage": null,
                 "id": 34872819,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-03-23T07:42:19Z",
+                "open_issues": 3,
                 "owner": "plugandpay",
                 "repo": "tbc-credit-card-payment-gateway-php-lib",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "credit-card",
+                  "payment-gateway",
+                  "tbc"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -115,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "💰 TBC Bank Online E-commerce Payment for Laravel with Transactions History and Logs [Georgia 🇬🇪]",
+                "homepage": null,
                 "id": 188817101,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2022-09-19T09:37:29Z",
+                "open_issues": 0,
                 "owner": "Lotuashvili",
                 "repo": "laravel-tbcpay",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -131,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP library for working with Georgian payment providers and banks",
+                "homepage": null,
                 "id": 52480756,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-04-11T18:32:10Z",
+                "open_issues": 1,
                 "owner": "akalongman",
                 "repo": "php-geopayment",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -147,12 +195,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "💰 Payze.io Payment Integration for Laravel with Transactions History, Saved Cards and Logs",
+                "homepage": null,
                 "id": 335382885,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-07-24T11:03:39Z",
+                "open_issues": 1,
                 "owner": "payzeio",
                 "repo": "laravel-payze",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -163,12 +216,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💵 National Bank of Georgia (NBG) currency service API wrapper in PHP",
+                "homepage": null,
                 "id": 48929576,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-11-03T04:14:57Z",
+                "open_issues": 0,
                 "owner": "Stichoza",
                 "repo": "nbg-currency",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "currency",
+                  "currency-converter",
+                  "currency-exchange-rates",
+                  "gel",
+                  "georgia",
+                  "georgian",
+                  "lari",
+                  "nbg"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -179,12 +246,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "iPay integration for Laravel",
+                "homepage": null,
                 "id": 313602375,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-07-30T06:45:29Z",
+                "open_issues": 1,
                 "owner": "zgabievi",
                 "repo": "laravel-ipay",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bank-of-georgia",
+                  "ipay",
+                  "laravel",
+                  "payments"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -195,12 +272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BOG Payment integration for Laravel",
+                "homepage": null,
                 "id": 285615893,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-05-26T10:38:04Z",
+                "open_issues": 0,
                 "owner": "zgabievi",
                 "repo": "laravel-bogpayment",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -211,12 +293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TBC Payment integration for Laravel",
+                "homepage": null,
                 "id": 285671362,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-02-10T10:50:06Z",
+                "open_issues": 0,
                 "owner": "zgabievi",
                 "repo": "laravel-tbcpayment",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -227,12 +314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bank of Georgia Merchant Console OpenAPI Helper",
+                "homepage": null,
                 "id": 332835504,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-01-28T09:46:06Z",
+                "open_issues": 0,
                 "owner": "zgabievi",
                 "repo": "laravel-bog-console",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -243,12 +335,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drupal 8 module for working with NBG Currency API.",
+                "homepage": null,
                 "id": 202897180,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-04-29T21:40:58Z",
+                "open_issues": 1,
                 "owner": "ABGEO",
                 "repo": "nbg-currency-d8",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             }
@@ -266,12 +363,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💶 Font Larisome - Iconic font for Georgian Lari (₾) inspired by Font-Awesome",
+                "homepage": null,
                 "id": 32043781,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2025-07-18T21:00:50Z",
+                "open_issues": 0,
                 "owner": "Stichoza",
                 "repo": "font-larisome",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "currency",
+                  "exchange",
+                  "exchange-rates",
+                  "font",
+                  "gel",
+                  "georgian",
+                  "georgian-language",
+                  "lari"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -282,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "georgian webfonts",
+                "homepage": null,
                 "id": 35280190,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2017-08-18T18:10:12Z",
+                "open_issues": 0,
                 "owner": "thecotne",
                 "repo": "georgian-webfonts",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -298,12 +414,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  საზოგადო მოღვაწეთა შრიფტები",
+                "homepage": "https://nodarai.github.io/geo-public-figure-fonts/",
                 "id": 132896801,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2019-10-08T11:32:50Z",
+                "open_issues": 0,
                 "owner": "nodarai",
                 "repo": "geo-public-figure-fonts",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "fonts",
+                  "georgia"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -314,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🇬🇪 BPGNateli Georgian font with CSS",
+                "homepage": "http://lotuashvili.github.io/BPGNateli",
                 "id": 30452727,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2015-09-01T18:23:51Z",
+                "open_issues": 0,
                 "owner": "Lotuashvili",
                 "repo": "BPGNateli",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             }
@@ -337,12 +466,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deprecated. Use Laravel Lang Instead. https://github.com/Laravel-Lang/lang",
+                "homepage": "https://github.com/Laravel-Lang/lang",
                 "id": 44276578,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-04-25T07:45:28Z",
+                "open_issues": 0,
                 "owner": "liorocks",
                 "repo": "Laravel-KA",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "georgia",
+                  "laravel"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -353,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a number or money into a localized string (Georgian). რიცხვების გადაყვანა სიტყვიერად, ქართულ ენაზე. როგორც რიცხვი, ასევე თანხა.",
+                "homepage": null,
                 "id": 8286514,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-01-04T19:22:31Z",
+                "open_issues": 0,
                 "owner": "Stichoza",
                 "repo": "georgian-number-to-words",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -369,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "georgian language support for node and browser",
+                "homepage": null,
                 "id": 15193330,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-09-09T16:16:35Z",
+                "open_issues": 0,
                 "owner": "dimakura",
                 "repo": "ka.js",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -385,12 +532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP class for convert KA letters to LAT and back",
+                "homepage": null,
                 "id": 35210777,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2016-06-23T08:26:14Z",
+                "open_issues": 0,
                 "owner": "akalongman",
                 "repo": "kautilities",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -401,12 +553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "გადაჰყავს რიცხვი მის ქართულ შესატყვისში 0-დან 1000000000000000 ის ჩათვლით",
+                "homepage": null,
                 "id": 18767094,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-27T15:37:27Z",
+                "open_issues": 1,
                 "owner": "natchkebiailia",
                 "repo": "NumberToWord",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -417,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts numbers to words in Georgian",
+                "homepage": null,
                 "id": 20436707,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2014-06-03T09:31:06Z",
+                "open_issues": 0,
                 "owner": "d0ragon",
                 "repo": "number-to-words-ka",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -433,12 +595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "common functionality for georgian projects",
+                "homepage": null,
                 "id": 9882103,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2013-11-09T09:08:06Z",
+                "open_issues": 0,
                 "owner": "dimakura",
                 "repo": "ka",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -454,12 +621,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parse, validate, manipulate, and display dates in javascript.",
+                    "homepage": "https://momentjs.com",
                     "id": 1424470,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T20:27:38Z",
+                    "open_issues": 106,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47912
+                    "stars": 47912,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
                 },
@@ -470,12 +642,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)",
+                    "homepage": "https://bootstrap-table.com/",
                     "id": 12246785,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T21:03:36Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:00:54Z",
+                    "open_issues": 201,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
-                    "stars": 11809
+                    "stars": 11809,
+                    "topics": [
+                      "bootstrap",
+                      "bootstrap-table",
+                      "bulma",
+                      "checkbox",
+                      "css",
+                      "css-framework",
+                      "datatables",
+                      "foundation",
+                      "hacktoberfest",
+                      "material",
+                      "material-design",
+                      "materialize",
+                      "pagination",
+                      "radio",
+                      "semantic",
+                      "semantic-ui",
+                      "table",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
                 },
@@ -486,12 +682,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🗓 A library to help you work with dates in multiple languages, based on Carbon.",
+                    "homepage": "https://jenssegers.com",
                     "id": 9738052,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2023-12-04T07:46:11Z",
+                    "open_issues": 9,
                     "owner": "jenssegers",
                     "repo": "date",
-                    "stars": 1803
+                    "stars": 1803,
+                    "topics": [
+                      "carbon",
+                      "dates",
+                      "i18n",
+                      "internationalisation",
+                      "internationalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
                 }
@@ -511,12 +718,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Faker is a PHP library that generates fake data for you",
+                "homepage": null,
                 "id": 2579314,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-03-20T13:44:54Z",
+                "open_issues": 221,
                 "owner": "fzaninotto",
                 "repo": "Faker",
-                "stars": 26644
+                "stars": 26644,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -527,12 +739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ავტომატურად აგენერირებს სტროფებს ვეფხისტყაოსნის მიხედვით",
+                "homepage": null,
                 "id": 10140591,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-05-18T11:52:54Z",
+                "open_issues": 0,
                 "owner": "safareli",
                 "repo": "loremtyaosani",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -543,12 +760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Georgian words and sentences wisely",
+                "homepage": null,
                 "id": 10076023,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-05-16T23:24:41Z",
+                "open_issues": 0,
                 "owner": "Stichoza",
                 "repo": "georgian-text-generator",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -559,12 +781,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ქართული შემთხვევითი ტექსტის გენერატორი ვეფხისტყაოსნიდან.",
+                "homepage": null,
                 "id": 191021318,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-06-06T19:43:07Z",
+                "open_issues": 0,
                 "owner": "ABGEO",
                 "repo": "tarieli.py",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "lorem-ipsum",
+                  "python3",
+                  "random",
+                  "text-generator",
+                  "vefkhistkaosani"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             }
@@ -582,12 +815,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoJson Data For Georgian Regions",
+                "homepage": null,
                 "id": 80284837,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-08T09:08:39Z",
+                "open_issues": 1,
                 "owner": "bumbeishvili",
                 "repo": "geojson-georgian-regions",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "geojson",
+                  "georgia",
+                  "map",
+                  "regions"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             }
@@ -605,12 +848,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Around 310 000  unique Georgian words (5 000 000 + from other sources)",
+                "homepage": "http://bumbeishvili.github.io/GeoWordsDatabase/",
                 "id": 47454080,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-12-09T13:12:06Z",
+                "open_issues": 0,
                 "owner": "bumbeishvili",
                 "repo": "GeoWordsDatabase",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "csv",
+                  "database",
+                  "georgia",
+                  "mysql",
+                  "words"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -621,12 +875,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful datasets, specific to Georgia",
+                "homepage": null,
                 "id": 80402203,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-13T09:27:21Z",
+                "open_issues": 5,
                 "owner": "bumbeishvili",
                 "repo": "awesome-georgian-datasets",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "csv",
+                  "database",
+                  "dataset",
+                  "excel",
+                  "georgia"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -637,12 +902,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Georgian Keyboard JavaScript Library",
+                "homepage": "http://www.code.ge/geokbd",
                 "id": 135370,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2009-11-29T13:40:25Z",
+                "open_issues": 1,
                 "owner": "ioseb",
                 "repo": "geokbd",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -653,12 +923,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community links",
+                "homepage": null,
                 "id": 123086480,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-13T09:27:32Z",
+                "open_issues": 0,
                 "owner": "bumbeishvili",
                 "repo": "georgian-tech-communities",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "communities",
+                  "georgia",
+                  "list",
+                  "tech"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -669,12 +949,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is mirror of previous awesome-georgian-talks.",
+                "homepage": null,
                 "id": 81124413,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-02T10:04:15Z",
+                "open_issues": 2,
                 "owner": "getsadzeg",
                 "repo": "awesome-georgian-talks",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "georgian",
+                  "talks"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -685,12 +973,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Georgian (ka_GE) word list",
+                "homepage": null,
                 "id": 104601047,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-01-25T17:57:50Z",
+                "open_issues": 5,
                 "owner": "akalongman",
                 "repo": "geo-words",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "dictionary",
+                  "georgia",
+                  "georgian",
+                  "ka-ge",
+                  "spell",
+                  "spell-checker",
+                  "words"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -701,12 +1002,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":earth_africa: The most-relevant repositories for all countries and many cities worldwide.",
+                "homepage": null,
                 "id": 94680893,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-11-02T14:29:29Z",
+                "open_issues": 0,
                 "owner": "lorey",
                 "repo": "top-regional-repositories",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "cities",
+                  "countries",
+                  "github",
+                  "top-list"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -717,12 +1028,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multifunctional javascript toolkit for Georgian Alphabet - Anbani",
+                "homepage": "https://www.npmjs.com/package/anbani",
                 "id": 124192124,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-10T18:21:19Z",
+                "open_issues": 0,
                 "owner": "Anbani",
                 "repo": "anbani.js",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "alphabet",
+                  "anbani",
+                  "asomtavruli",
+                  "char-rnn",
+                  "converter",
+                  "generation",
+                  "georgia",
+                  "georgian",
+                  "interpreter",
+                  "ipsum",
+                  "lorem",
+                  "mkhedruli",
+                  "mtavruli",
+                  "nuskhuri",
+                  "random",
+                  "text",
+                  "vefxistyaosani"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -733,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RS(შემოსავლების სამსახურის) & NBG(ეროვნული ბანკის) სერვისების კლიენტი პითონზე",
+                "homepage": null,
                 "id": 27639849,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-07-16T12:40:32Z",
+                "open_issues": 0,
                 "owner": "bekatom",
                 "repo": "geo-services",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -749,12 +1088,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vue.js georgian keyboard directive",
+                "homepage": null,
                 "id": 67881997,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2017-02-18T22:11:42Z",
+                "open_issues": 1,
                 "owner": "xxzefgh",
                 "repo": "vue-geokbd",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -765,12 +1111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby client for rs.ge web services",
+                "homepage": "http://carbon.ge",
                 "id": 3470590,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2014-02-17T06:15:06Z",
+                "open_issues": 0,
                 "owner": "dimakura",
                 "repo": "rs.ge",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -781,12 +1132,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram Bot to get GEL",
+                "homepage": null,
                 "id": 117748001,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-28T15:28:20Z",
+                "open_issues": 16,
                 "owner": "nodarai",
                 "repo": "lariskursibot",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "python",
+                  "sqlalchemy",
+                  "telegram",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -797,12 +1158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "library for import/exporting data in oris.ge accounting software",
+                "homepage": null,
                 "id": 7718706,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2013-02-16T06:34:30Z",
+                "open_issues": 0,
                 "owner": "dimakura",
                 "repo": "oris.ge",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -813,12 +1179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ONWAY.GE Integration for Laravel",
+                "homepage": null,
                 "id": 276327022,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-05-09T16:49:55Z",
+                "open_issues": 0,
                 "owner": "zgabievi",
                 "repo": "laravel-onway",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             }
@@ -832,15 +1203,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:46:00.478Z",
+    "last_updated": "2026-08-29T05:02:54.872Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).",
+      "homepage": null,
       "id": 36075460,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-12-22T17:25:40Z",
+      "open_issues": 0,
       "owner": "Stichoza",
       "repo": "awesome-georgia",
-      "stars": 95
+      "stars": 95,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "georgia"
+      ]
     },
     "original_repository_sha": "5de038eb21cdc775d6e200560ac9eef1a8f0cca8",
     "enhanced_repository": "enhansome/enhansome-georgia",
