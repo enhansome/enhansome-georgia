@@ -630,7 +630,7 @@
                     "open_issues": 106,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47913,
+                    "stars": 47914,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
@@ -691,7 +691,7 @@
                     "open_issues": 9,
                     "owner": "jenssegers",
                     "repo": "date",
-                    "stars": 1803,
+                    "stars": 1802,
                     "topics": [
                       "carbon",
                       "dates",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:15:33.567Z",
+    "last_updated": "2026-08-31T20:29:13.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).",
