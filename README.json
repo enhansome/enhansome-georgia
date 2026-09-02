@@ -626,11 +626,11 @@
                     "id": 1424470,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-23T20:27:38Z",
-                    "open_issues": 106,
+                    "last_commit": "2026-09-02T14:45:58Z",
+                    "open_issues": 74,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47914,
+                    "stars": 47913,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
@@ -647,7 +647,7 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T00:00:50Z",
+                    "last_commit": "2026-09-02T00:00:34Z",
                     "open_issues": 200,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:03:06.284Z",
+    "last_updated": "2026-09-02T18:14:14.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).",
