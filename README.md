@@ -56,7 +56,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * **Other localized packages**
   * [moment/moment](https://github.com/moment/moment) ⭐ 47,902 | 🐛 59 | 🌐 JavaScript | 📅 2026-09-15 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
   * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,811 | 🐛 203 | 🌐 JavaScript | 📅 2026-10-06 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,800 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,594 | 🐛 10 | 🌐 PHP | 📅 2026-10-02 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
+  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,800 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,593 | 🐛 10 | 🌐 PHP | 📅 2026-10-02 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
   * [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton fork designed to work with Kartvelian languages (CSS).
   * [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
 
