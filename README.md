@@ -54,9 +54,9 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2014-06-03 - Convert numbers to localized strings (PHP).
 * [dimakura/ka](https://github.com/dimakura/ka) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2013-11-09 - Common functionality for georgian projects (Ruby).
 * **Other localized packages**
-  * [moment/moment](https://github.com/moment/moment) ⭐ 47,892 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
-  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,809 | 🐛 199 | 🌐 JavaScript | 📅 2026-10-17 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,798 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,587 | 🐛 5 | 🌐 PHP | 📅 2026-10-15 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
+  * [moment/moment](https://github.com/moment/moment) ⭐ 47,894 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,808 | 🐛 198 | 🌐 JavaScript | 📅 2026-10-18 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
+  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,798 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,587 | 🐛 3 | 🌐 PHP | 📅 2026-10-18 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
   * [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton fork designed to work with Kartvelian languages (CSS).
   * [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
 
@@ -82,7 +82,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) ⭐ 32 | 🐛 2 | 📅 2020-10-02 - List of awesome Georgian talks.
 * [akalongman/geo-words](https://github.com/akalongman/geo-words) ⭐ 21 | 🐛 5 | 🌐 PHP | 📅 2023-01-25 - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
 * [lorey/top-regional-repositories/countries/georgia.md](https://github.com/lorey/top-regional-repositories/blob/master/countries/georgia.md) ⚠️ Archived - Popular repositories in Georgia
-* [anbani/anbani.js](https://github.com/Anbani/anbani.js) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).
+* [anbani/anbani.js](https://github.com/Anbani/anbani.js) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-17 - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).
 * [btomashvili/ge-services](https://github.com/btomashvili/geo-services) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2015-07-16 - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
 * [brunjick/vue-geokbd](https://github.com/brunjick/vue-geokbd) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2017-02-18 - Vue.js georgian keyboard directive
 * [dimakura/rs.ge](https://github.com/dimakura/rs.ge) ⭐ 5 | 🐛 0 | 🌐 Ruby | 📅 2014-02-17 - Client for rs.ge web services (Ruby).
@@ -102,4 +102,4 @@ To the extent possible under law, [Stichoza (Levan Velijanashvili)](http://githu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
