@@ -372,7 +372,7 @@
                 "open_issues": 0,
                 "owner": "Stichoza",
                 "repo": "font-larisome",
-                "stars": 39,
+                "stars": 41,
                 "topics": [
                   "currency",
                   "exchange",
@@ -647,11 +647,11 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T00:00:20Z",
-                    "open_issues": 197,
+                    "last_commit": "2026-10-25T05:14:06Z",
+                    "open_issues": 196,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
-                    "stars": 11807,
+                    "stars": 11809,
                     "topics": [
                       "bootstrap",
                       "bootstrap-table",
@@ -727,7 +727,7 @@
                 "open_issues": 218,
                 "owner": "fzaninotto",
                 "repo": "Faker",
-                "stars": 26616,
+                "stars": 26617,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
@@ -1033,7 +1033,7 @@
                 "id": 124192124,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T22:07:45Z",
+                "last_commit": "2026-10-25T14:55:44Z",
                 "open_issues": 0,
                 "owner": "Anbani",
                 "repo": "anbani.js",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:42:43.792Z",
+    "last_updated": "2026-10-25T17:58:27.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).",
