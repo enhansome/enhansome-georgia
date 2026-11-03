@@ -630,7 +630,7 @@
                     "open_issues": 73,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47881,
+                    "stars": 47880,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
@@ -647,11 +647,11 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T21:04:07Z",
-                    "open_issues": 203,
+                    "last_commit": "2026-11-03T00:03:02Z",
+                    "open_issues": 199,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
-                    "stars": 11811,
+                    "stars": 11810,
                     "topics": [
                       "bootstrap",
                       "bootstrap-table",
@@ -727,7 +727,7 @@
                 "open_issues": 218,
                 "owner": "fzaninotto",
                 "repo": "Faker",
-                "stars": 26616,
+                "stars": 26615,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
@@ -884,7 +884,7 @@
                 "open_issues": 5,
                 "owner": "bumbeishvili",
                 "repo": "awesome-georgian-datasets",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "csv",
                   "database",
@@ -1203,7 +1203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:56:32.679Z",
+    "last_updated": "2026-11-03T20:42:13.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).",
