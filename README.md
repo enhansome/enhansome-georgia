@@ -5,7 +5,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 ## Categories
 
 1. [SMS / Texting](#sms--texting)
-2. [Payments and Banks](#payments-and-banks)
+2. [Payments, Banks and Taxes](#payments-banks-and-taxes)
 3. [Assets](#assets)
 4. [Internationalization and Localization (i18n/l10n)](#internationalization-and-localization-i18nl10n)
 5. [Fakers, Lorem Ipsum Generators](#fakers-lorem-ipsum-generators)
@@ -22,18 +22,21 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [zgabievi/laravel-gosms](https://github.com/zgabievi/laravel-gosms) ⚠️ Archived - GoSMS.GE Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
 * [zgabievi/laravel-sender](https://github.com/zgabievi/laravel-sender) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2021-08-10 - SENDER.GE Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
 
-#### Payments and Banks
+#### Payments, Banks and Taxes
 
 * [wearede/tbcpay-php](https://github.com/wearede/tbcpay-php) ⭐ 89 | 🐛 3 | 🌐 PHP | 📅 2022-03-23 - Online payment SDK for not only for TBC-Pay (PHP).
 * [Lotuashvili/laravel-tbcpay](https://github.com/Lotuashvili/laravel-tbcpay) ⚠️ Archived - TBC Pay package for [Laravel](https://laravel.com/) (PHP).
 * [akalongman/php-geopayment](https://github.com/akalongman/php-geopayment) ⭐ 45 | 🐛 1 | 🌐 PHP | 📅 2019-04-11 - Online payments: BOG, Cartu, TBC Pay, Libery Pay (PHP).
 * [payzeio/laravel-payze](https://github.com/payzeio/laravel-payze) ⚠️ Archived - Payze.io Payment Integration for Laravel (PHP, Laravel).
 * [Stichoza/nbg-currency](https://github.com/Stichoza/nbg-currency) ⭐ 30 | 🐛 0 | 🌐 PHP | 📅 2025-11-03 - Currency rate wrapper for NBG, National Bank of Georgia (PHP).
+* [bekatom/geo-services](https://github.com/bekatom/geo-services) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2015-07-16 - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
 * [zgabievi/laravel-ipay](https://github.com/zgabievi/laravel-ipay) ⚠️ Archived - iPay Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
 * [zgabievi/laravel-bogpayment](https://github.com/zgabievi/laravel-bogpayment) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2021-05-26 - BOG Payment Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
+* [dimakura/rs.ge](https://github.com/dimakura/rs.ge) ⭐ 5 | 🐛 0 | 🌐 Ruby | 📅 2014-02-17 - Client for rs.ge web services (Ruby).
 * [zgabievi/laravel-tbcpayment](https://github.com/zgabievi/laravel-tbcpayment) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2022-02-10 - TBC Payment integration for [Laravel](https://laravel.com/) (PHP, Laravel).
 * [zgabievi/laravel-bog-console](https://github.com/zgabievi/laravel-bog-console) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2021-01-28 - Bank of Georgia Merchant Console OpenAPI Helper for [Laravel](https://laravel.com/) (PHP, Laravel).
 * [ABGEO/nbg-currency-d8](https://github.com/ABGEO/nbg-currency-d8) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2021-04-29 - Drupal 8 Block Module for displaying NBG currencies (PHP; Drupal Module).
+* [leon-wbr/rs-ge](https://github.com/leon-wbr/rs-ge) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Typed client for the Revenue Service (rs.ge) web services: TaxPayer, WayBill and e-invoices (TypeScript; Node, Deno, Bun, Cloudflare Workers).
 * [Omedia/iPay](https://github.com/Omedia/iPay) - Drupal7 module for Bank of Georgia's iPay service (PHP, Drupal).
 
 #### Assets
@@ -54,9 +57,9 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2014-06-03 - Convert numbers to localized strings (PHP).
 * [dimakura/ka](https://github.com/dimakura/ka) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2013-11-09 - Common functionality for georgian projects (Ruby).
 * **Other localized packages**
-  * [moment/moment](https://github.com/moment/moment) ⭐ 47,872 | 🐛 72 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
-  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,813 | 🐛 194 | 🌐 JavaScript | 📅 2026-11-08 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,797 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,584 | 🐛 5 | 🌐 PHP | 📅 2026-11-04 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
+  * [moment/moment](https://github.com/moment/moment) ⭐ 47,871 | 🐛 72 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,813 | 🐛 199 | 🌐 JavaScript | 📅 2026-11-09 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
+  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,797 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,584 | 🐛 5 | 🌐 PHP | 📅 2026-11-09 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
   * [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton fork designed to work with Kartvelian languages (CSS).
   * [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
 
@@ -83,9 +86,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [akalongman/geo-words](https://github.com/akalongman/geo-words) ⭐ 21 | 🐛 5 | 🌐 PHP | 📅 2023-01-25 - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
 * [lorey/top-regional-repositories/countries/georgia.md](https://github.com/lorey/top-regional-repositories/blob/master/countries/georgia.md) ⚠️ Archived - Popular repositories in Georgia
 * [anbani/anbani.js](https://github.com/Anbani/anbani.js) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-08 - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).
-* [btomashvili/ge-services](https://github.com/btomashvili/geo-services) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2015-07-16 - Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).
 * [brunjick/vue-geokbd](https://github.com/brunjick/vue-geokbd) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2017-02-18 - Vue.js georgian keyboard directive
-* [dimakura/rs.ge](https://github.com/dimakura/rs.ge) ⭐ 5 | 🐛 0 | 🌐 Ruby | 📅 2014-02-17 - Client for rs.ge web services (Ruby).
 * [nodarai/lariskursibot](https://github.com/nodarai/lariskursibot) ⭐ 1 | 🐛 16 | 🌐 Python | 📅 2026-04-28 - Telegram Bot example to check daily GEL exchange rate using Python
 * [dimakura/oris.ge](https://github.com/dimakura/oris.ge) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2013-02-16 - library for import/exporting data in oris.ge accounting software (Ruby).
 * [zgabievi/laravel-onway](https://github.com/zgabievi/laravel-onway) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2022-05-09 - ONWAY Integration for [Laravel](https://laravel.com/) (PHP, Laravel).
@@ -102,4 +103,4 @@ To the extent possible under law, [Stichoza (Levan Velijanashvili)](http://githu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

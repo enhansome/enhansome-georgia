@@ -241,6 +241,27 @@
             },
             {
               "node_type": "item",
+              "title": "bekatom/geo-services",
+              "description": "Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RS(შემოსავლების სამსახურის) & NBG(ეროვნული ბანკის) სერვისების კლიენტი პითონზე",
+                "homepage": null,
+                "id": 27639849,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2015-07-16T12:40:32Z",
+                "open_issues": 0,
+                "owner": "bekatom",
+                "repo": "geo-services",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:46:00.478Z"
+            },
+            {
+              "node_type": "item",
               "title": "zgabievi/laravel-ipay",
               "description": "iPay Integration for Laravel (PHP, Laravel).",
               "children": [],
@@ -281,6 +302,27 @@
                 "open_issues": 0,
                 "owner": "zgabievi",
                 "repo": "laravel-bogpayment",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:46:00.478Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dimakura/rs.ge",
+              "description": "Client for rs.ge web services (Ruby).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ruby client for rs.ge web services",
+                "homepage": "http://carbon.ge",
+                "id": 3470590,
+                "language": "Ruby",
+                "license": null,
+                "last_commit": "2014-02-17T06:15:06Z",
+                "open_issues": 0,
+                "owner": "dimakura",
+                "repo": "rs.ge",
                 "stars": 5,
                 "topics": []
               },
@@ -348,11 +390,45 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
+            },
+            {
+              "node_type": "item",
+              "title": "leon-wbr/rs-ge",
+              "description": "Typed client for the Revenue Service (rs.ge) web services: TaxPayer, WayBill and e-invoices (TypeScript; Node, Deno, Bun, Cloudflare Workers).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Unofficial, typed, dependency-free TypeScript client for Georgia's Revenue Service (rs.ge) SOAP services: TaxPayer, WayBill and e-invoices.",
+                "homepage": null,
+                "id": 1389483758,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-09T10:37:27Z",
+                "open_issues": 0,
+                "owner": "leon-wbr",
+                "repo": "rs-ge",
+                "stars": 0,
+                "topics": [
+                  "bun",
+                  "cloudflare-workers",
+                  "deno",
+                  "e-invoice",
+                  "georgia",
+                  "revenue-service",
+                  "rs-ge",
+                  "soap",
+                  "soap-client",
+                  "tax",
+                  "typescript",
+                  "waybill"
+                ]
+              },
+              "first_seen": "2026-11-09T23:38:29.952Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Payments and Banks"
+          "title": "Payments, Banks and Taxes"
         },
         {
           "children": [
@@ -630,7 +706,7 @@
                     "open_issues": 72,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47872,
+                    "stars": 47871,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
@@ -647,8 +723,8 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-08T15:56:08Z",
-                    "open_issues": 194,
+                    "last_commit": "2026-11-09T21:05:10Z",
+                    "open_issues": 199,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
                     "stars": 11813,
@@ -1062,27 +1138,6 @@
             },
             {
               "node_type": "item",
-              "title": "btomashvili/ge-services",
-              "description": "Revenue service (rs.ge) & National Bank (nbg.ge) clients (Python).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "RS(შემოსავლების სამსახურის) & NBG(ეროვნული ბანკის) სერვისების კლიენტი პითონზე",
-                "homepage": null,
-                "id": 27639849,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2015-07-16T12:40:32Z",
-                "open_issues": 0,
-                "owner": "bekatom",
-                "repo": "geo-services",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:46:00.478Z"
-            },
-            {
-              "node_type": "item",
               "title": "brunjick/vue-geokbd",
               "description": "Vue.js georgian keyboard directive",
               "children": [],
@@ -1101,27 +1156,6 @@
                 "topics": [
                   "vue"
                 ]
-              },
-              "first_seen": "2026-08-28T23:46:00.478Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dimakura/rs.ge",
-              "description": "Client for rs.ge web services (Ruby).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Ruby client for rs.ge web services",
-                "homepage": "http://carbon.ge",
-                "id": 3470590,
-                "language": "Ruby",
-                "license": null,
-                "last_commit": "2014-02-17T06:15:06Z",
-                "open_issues": 0,
-                "owner": "dimakura",
-                "repo": "rs.ge",
-                "stars": 5,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
             },
@@ -1203,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:14:21.907Z",
+    "last_updated": "2026-11-09T23:38:29.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).",
@@ -1211,8 +1245,8 @@
       "id": 36075460,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2024-12-22T17:25:40Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-08T21:46:05Z",
+      "open_issues": 0,
       "owner": "Stichoza",
       "repo": "awesome-georgia",
       "stars": 94,
@@ -1222,7 +1256,7 @@
         "georgia"
       ]
     },
-    "original_repository_sha": "5de038eb21cdc775d6e200560ac9eef1a8f0cca8",
+    "original_repository_sha": "64f9dd14466a98d87a6b2659bf88d0952ea299b0",
     "enhanced_repository": "enhansome/enhansome-georgia",
     "enhanced_repository_description": null,
     "title": "Awesome Georgia with stars"
