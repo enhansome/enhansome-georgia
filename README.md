@@ -58,8 +58,8 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [dimakura/ka](https://github.com/dimakura/ka) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2013-11-09 - Common functionality for georgian projects (Ruby).
 * **Other localized packages**
   * [moment/moment](https://github.com/moment/moment) ⭐ 47,873 | 🐛 72 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
-  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,813 | 🐛 182 | 🌐 JavaScript | 📅 2026-11-14 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,797 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,582 | 🐛 6 | 🌐 PHP | 📅 2026-11-09 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
+  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,813 | 🐛 184 | 🌐 JavaScript | 📅 2026-11-15 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
+  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,797 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,583 | 🐛 6 | 🌐 PHP | 📅 2026-11-15 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
   * [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton fork designed to work with Kartvelian languages (CSS).
   * [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
 
@@ -79,7 +79,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 #### Uncategorized
 
 * [bumbeishvili/GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase) ⭐ 74 | 🐛 0 | 📅 2017-12-09 - Database containing 300 000 + unique Georgian words (MySQL).
-* [bumbeishvili/awesome-georgian-datasets](https://github.com/bumbeishvili/awesome-georgian-datasets) ⭐ 68 | 🐛 5 | 📅 2022-03-13 - Useful datasets, specific to Georgia
+* [bumbeishvili/awesome-georgian-datasets](https://github.com/bumbeishvili/awesome-georgian-datasets) ⭐ 68 | 🐛 6 | 📅 2022-03-13 - Useful datasets, specific to Georgia
 * [ioseb/geokbd](https://github.com/ioseb/geokbd) ⭐ 58 | 🐛 1 | 🌐 JavaScript | 📅 2009-11-29 - Georgian keyboard library (JavaScript).
 * [bumbeishvili/georgian-tech-communities](https://github.com/bumbeishvili/georgian-tech-communities) ⭐ 57 | 🐛 0 | 📅 2022-03-13 - List of Georgian tech communities.
 * [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) ⭐ 32 | 🐛 2 | 📅 2020-10-02 - List of awesome Georgian talks.
@@ -103,4 +103,4 @@ To the extent possible under law, [Stichoza (Levan Velijanashvili)](http://githu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
