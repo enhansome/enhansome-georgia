@@ -703,10 +703,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-08T16:26:56Z",
-                    "open_issues": 72,
+                    "open_issues": 73,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47873,
+                    "stars": 47871,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:46:00.478Z"
@@ -723,11 +723,11 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T15:13:49Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-11-16T21:04:46Z",
+                    "open_issues": 191,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
-                    "stars": 11813,
+                    "stars": 11811,
                     "topics": [
                       "bootstrap",
                       "bootstrap-table",
@@ -909,6 +909,27 @@
                 ]
               },
               "first_seen": "2026-08-28T23:46:00.478Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Paxa/georgia-geo-data",
+              "description": "Multilingual (ka/en/ru) dataset of verified Georgian streets, urban districts, and suburbs sourced from NAPR and OpenStreetMap.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Batumi & Tbilisi streets in GE/EN/RU with coordinates and common aliases",
+                "homepage": "https://paxa.github.io/georgia-geo-data/",
+                "id": 1457228737,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-15T17:52:45Z",
+                "open_issues": 0,
+                "owner": "Paxa",
+                "repo": "georgia-geo-data",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-16T23:35:05.753Z"
             }
           ],
           "description": null,
@@ -1237,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:01:57.872Z",
+    "last_updated": "2026-11-16T23:35:05.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇬🇪 A curated list of awesome libraries and packages specific/related to Georgia (country).",
@@ -1245,8 +1266,8 @@
       "id": 36075460,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-08T21:46:05Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-16T21:52:41Z",
+      "open_issues": 0,
       "owner": "Stichoza",
       "repo": "awesome-georgia",
       "stars": 95,
@@ -1256,7 +1277,7 @@
         "georgia"
       ]
     },
-    "original_repository_sha": "64f9dd14466a98d87a6b2659bf88d0952ea299b0",
+    "original_repository_sha": "449b5d6d8e5599d82cc188cb5bf7586b6b2a135e",
     "enhanced_repository": "enhansome/enhansome-georgia",
     "enhanced_repository_description": null,
     "title": "Awesome Georgia with stars"
