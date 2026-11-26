@@ -57,9 +57,9 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [d0ragon/number-to-words-ka](https://github.com/d0ragon/number-to-words-ka) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2014-06-03 - Convert numbers to localized strings (PHP).
 * [dimakura/ka](https://github.com/dimakura/ka) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2013-11-09 - Common functionality for georgian projects (Ruby).
 * **Other localized packages**
-  * [moment/moment](https://github.com/moment/moment) ⭐ 47,868 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
-  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,807 | 🐛 184 | 🌐 JavaScript | 📅 2026-11-25 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
-  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,794 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,582 | 🐛 5 | 🌐 PHP | 📅 2026-11-22 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
+  * [moment/moment](https://github.com/moment/moment) ⭐ 47,869 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript). l10n by [@irakli-janiashvili](https://github.com/irakli-janiashvili).
+  * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,806 | 🐛 185 | 🌐 JavaScript | 📅 2026-11-26 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
+  * [jenssegers/date](https://github.com/jenssegers/date) ⭐ 1,794 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - PHP date library, which extends [Carbon](https://github.com/briannesbitt/Carbon) ⭐ 16,584 | 🐛 6 | 🌐 PHP | 📅 2026-11-22 with multi-language support. Georgian l10n by [@akalongman](https://github.com/akalongman).
   * [Nikaoto/Skeleton](https://github.com/Nikaoto/Skeleton) - Custom Skeleton fork designed to work with Kartvelian languages (CSS).
   * [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
 
@@ -86,7 +86,7 @@ A curated list of awesome libraries and packages specific/related to Georgia (co
 * [getsadzeg/awesome-georgian-talks](https://github.com/getsadzeg/awesome-georgian-talks) ⭐ 32 | 🐛 2 | 📅 2020-10-02 - List of awesome Georgian talks.
 * [akalongman/geo-words](https://github.com/akalongman/geo-words) ⭐ 21 | 🐛 5 | 🌐 PHP | 📅 2023-01-25 - Georgian words database (txt, dic, sql) + CLI web crawler on PHP
 * [lorey/top-regional-repositories/countries/georgia.md](https://github.com/lorey/top-regional-repositories/blob/master/countries/georgia.md) ⚠️ Archived - Popular repositories in Georgia
-* [anbani/anbani.js](https://github.com/Anbani/anbani.js) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-08 - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).
+* [anbani/anbani.js](https://github.com/Anbani/anbani.js) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2026-11-26 - Georgian Alphabet converter (Asomtavruli, Nuskhuri, Mtavruli...), interpreter (QWERTY, Cyrillic) and random text generator (using char-rnn).
 * [brunjick/vue-geokbd](https://github.com/brunjick/vue-geokbd) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2017-02-18 - Vue.js georgian keyboard directive
 * [nodarai/lariskursibot](https://github.com/nodarai/lariskursibot) ⭐ 1 | 🐛 16 | 🌐 Python | 📅 2026-04-28 - Telegram Bot example to check daily GEL exchange rate using Python
 * [dimakura/oris.ge](https://github.com/dimakura/oris.ge) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2013-02-16 - library for import/exporting data in oris.ge accounting software (Ruby).
@@ -104,4 +104,4 @@ To the extent possible under law, [Stichoza (Levan Velijanashvili)](http://githu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
